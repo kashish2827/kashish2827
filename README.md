@@ -44,7 +44,7 @@ Here are some of my public repositories:
 📫 Let’s Connect
 
 🔗 GitHub: https://github.com/kashish2827  
-🔗 LinkedIn: https://www.linkedin.com/in/jansari-kashish-6a38a0278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app :contentReference[oaicite:2]{index=2}
+🔗 LinkedIn: https://www.linkedin.com/in/jansari-kashish-6a38a0278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 ---
 
