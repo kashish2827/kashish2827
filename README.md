@@ -37,7 +37,7 @@ Here are some of my public repositories:
 | **Internship-Django** | Django project for internship practice |
 | **Bank-Application** | Banking console app in C |
 
-*All repositories are public and showcase different parts of my coding journey.* :contentReference[oaicite:1]{index=1}
+*All repositories are public and showcase different parts of my coding journey.* 
 
 ---
 
